@@ -1,4 +1,3 @@
-Je m'excuse pour l'erreur. Voici la correction du document `README` ou `DOC` :
 
 ---
 
